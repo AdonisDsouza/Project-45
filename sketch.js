@@ -17,7 +17,7 @@ function setup(){
 
     background1 = createSprite(displayWidth/2, displayHeight/2, displayWidth, displayHeight);
     background1.addImage("backgroundImg1",backgroundImg);
-    background1.scale = 0.53;
+    background1.scale = 0.54;
 
     //Creating the Mario character
     mario = createSprite(80,displayHeight-150,40,50);
